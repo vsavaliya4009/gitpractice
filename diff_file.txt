@@ -1,0 +1,1 @@
+This is a gif diff test example
