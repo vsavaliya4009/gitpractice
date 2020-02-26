@@ -1,0 +1,2 @@
+This is reset file for reset example
+This is new line added
